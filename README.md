@@ -1,5 +1,5 @@
 # Arthur Otaviano
-**`Front-End Developer`**
+**`Web Developer`**
 
 I have been exploring the development world since I was 12, and working actively 10+ years. I build websites and web apps focusing on great design, responsiveness, accessibility, SEO and user experience. I like to improve my habilities, and am always open to learn new tools and technologies.
 
