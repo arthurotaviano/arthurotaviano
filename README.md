@@ -10,7 +10,7 @@ I have been exploring the development world since I was 12, and working actively
 ## Tech Stack
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjE5IDE0IDkwIDEwMCIgZmlsbD0iI2ZmZiI+PHBhdGggZD0iTTY0LjAwMSA1MS40MjloMTguMzAybDEuMjY0LTE0LjE2M0g2NC4wMDFWMjMuNDM1aDM0LjY4MmwtLjMzMiAzLjcxMS0zLjQgMzguMTE0aC0zMC45NVY1MS40Mjl6Ii8+PHBhdGggZD0iTTY0LjA4MyA4Ny4zNDlsLS4wNjEuMDE4LTE1LjQwMy00LjE1OS0uOTg1LTExLjAzMUgzMy43NTJsMS45MzcgMjEuNzE3IDI4LjMzMSA3Ljg2My4wNjMtLjAxOHYtMTQuMzl6Ii8+PHBhdGggZD0iTTgxLjEyNyA2NC42NzVsLTEuNjY2IDE4LjUyMi0xNS40MjYgNC4xNjR2MTQuMzlsMjguMzU0LTcuODU4LjIwOC0yLjMzNyAyLjQwNi0yNi44ODFIODEuMTI3eiIvPjxwYXRoIGQ9Ik02NC4wNDggMjMuNDM1djEzLjgzMUgzMC42NGwtLjI3Ny0zLjEwOC0uNjMtNy4wMTItLjMzMS0zLjcxMWgzNC42NDZ6bS0uMDQ3IDI3Ljk5NnYxMy44MzFINDguNzkybC0uMjc3LTMuMTA4LS42MzEtNy4wMTItLjMzLTMuNzExaDE2LjQ0N3oiLz48L3N2Zz4=)
+![CSS3](https://img.shields.io/badge/CSS-663399?style=for-the-badge&logo=css&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/TAILWIND_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
 ![TypeScript](https://img.shields.io/badge/TYPESCRIPT-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
