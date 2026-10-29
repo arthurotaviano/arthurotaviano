@@ -23,6 +23,6 @@ Currently pursuing a Postgraduate Certificate in Software Engineering at PUC-Rio
 
 ## Currently
 
-- 💼 Software Developer @ MultiRio
+- 💼 Web Developer @ MultiRio
 - 🎓 Postgraduate Student in Software Engineering @ PUC-Rio
 - 🌱 Learning software architecture and back-end development
